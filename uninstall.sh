@@ -10,4 +10,3 @@ rm /usr/bin/simpleCalc
 rm /usr/share/pixmaps/calc.ico
 rm -r /etc/simpleCalc
 echo "Uninstalled Successfully"
-rm uninstall.sh
